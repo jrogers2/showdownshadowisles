@@ -1,0 +1,1 @@
+process.env.MONGOHQ_URL = 'mongodb://root:krsss=5@dharma.mongohq.com:10039/LeagueofLegendsCollegiate'
